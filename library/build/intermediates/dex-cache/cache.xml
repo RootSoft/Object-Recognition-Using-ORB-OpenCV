@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/RootSoft/Projecten/EndaReco/app/build/intermediates/exploded-aar/EndaReco.app.libraries/opencv/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b2ec2504197a9f475db616db325d976ce9132da9">
+        <dex dex="/Users/RootSoft/Projecten/EndaReco/app/build/intermediates/pre-dexed/debug/classes-402af077a02d701ee9a3bae25ac70419cecb66ec.jar" />
+    </item>
+    <item
+        jar="/Users/RootSoft/Projecten/EndaReco/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/RootSoft/Projecten/EndaReco/app/build/intermediates/pre-dexed/debug/classes-d487f579cabf96e2976fd8870e5ef7188f502dce.jar" />
+    </item>
+    <item
+        jar="/Android/sdk/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/RootSoft/Projecten/EndaReco/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-bf42df0264ab687b4eab6827183d076637732b06.jar" />
+    </item>
+    <item
+        jar="/Users/RootSoft/Projecten/EndaReco/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/RootSoft/Projecten/EndaReco/app/build/intermediates/pre-dexed/debug/classes-119683f2f382f52983d0752530619424e9d7931f.jar" />
+    </item>
+    <item
+        jar="/Users/RootSoft/Projecten/EndaReco/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/RootSoft/Projecten/EndaReco/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-afd23cb9ac9f3bcdc615f9fe4009fdce389f98ed.jar" />
+    </item>
+
+</items>
